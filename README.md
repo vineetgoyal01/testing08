@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href=>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS__W6OLuocXF5l1T6fqQI6sJkIVcfGB9trIw&usqp=CAU" alt="Logo" width="200" height="200">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40kbrook10%2Fday-8-data-visualization-how-to-use-choropleth-maps-63c0fedfd5e7&psig=AOvVaw1-6pok09XvlojsjjbQ01Iv&ust=1604051884997000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDYm4jF2ewCFQAAAAAdAAAAABAP" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center"> Life expectancy prediction with Machine Learning </h3>
